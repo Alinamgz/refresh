@@ -5,4 +5,5 @@
 *.swp
 *.swo
 .vscode/**/*
+.idea/**/*
 main_check.c
